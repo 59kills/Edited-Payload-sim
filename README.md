@@ -8,7 +8,7 @@ Initial sim credit: dimitarbez
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/dimitarbez/ICBMSimulator.git
+   git clone https://github.com/59kills/Edited-Payload-Sim.git
    ```
 
 2. **Navigate into the project directory**:
