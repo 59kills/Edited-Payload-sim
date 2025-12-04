@@ -7,7 +7,7 @@ https://nodejs.org/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/dimitarbez/ICBMSimulator.git
+   git clone https://github.com/59kills/Edited-Payload-sim.git
    ```
 
 2. **Navigate into the project directory**:
@@ -25,6 +25,7 @@ https://nodejs.org/
    npm start
    ```
    The app will be running at [http://localhost:3000](http://localhost:3000).
+
 
 
 
