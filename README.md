@@ -1,6 +1,10 @@
 # Edited-Payload-sim
 Initial sim credit: dimitarbez
 
+### Installation Node.js
+```bash
+https://nodejs.org
+```
 
 (In command prompt/CLI)
 
