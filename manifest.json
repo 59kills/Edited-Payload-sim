@@ -1,0 +1,20 @@
+{
+  "short_name": "ICBM Sim",
+  "name": "ICBM Trajectory Simulation",
+  "icons": [
+    {
+      "src": "Icons8-Ios7-Transport-Rocket.32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "Icons8-Ios7-Transport-Rocket.128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a2634",
+  "background_color": "#121a24"
+}
